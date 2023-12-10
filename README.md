@@ -6,5 +6,5 @@ A platform that connects companies with experts in solving the problems of diver
 ![Screenshot](dashboard.png)
 ![Screenshot](team.png)
 ![Screenshot](terapeuti.png)
-![Screenshot](ai chat.png)
+![Screenshot](aichat.png)
 
